@@ -1,0 +1,5 @@
+Array,1,Find the maximum element in an array,Use max_element,Iterate through the array or use std::max_element
+Tree,2,Check if a binary tree is balanced,Check height difference,Compare left and right subtree heights
+Graph,3,Find shortest path using Dijkstra's algorithm,Use priority queue,Maintain a min-heap of distances
+Hash Map,2,Find two numbers that sum to target,Use hash map for O(1) lookup,Store numbers in a hash map while iterating
+Heap,3,Find kth largest element in an array,Use min-heap,Maintain a min-heap of size k
